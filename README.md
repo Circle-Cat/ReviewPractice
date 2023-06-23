@@ -4,5 +4,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 1. jasmine@u.circlecat.org
 2. test@u.circlecat.org
 3. catlady@u.circlecat.org
+4. yuji@u.circlecat.org
 
-NextId: 4
+NextId: 5
