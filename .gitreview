@@ -1,5 +1,5 @@
 [gerrit]
-host=gerrit.circlecat.org
+host=review.circlecat.org
 port=80
 scheme=http
 project=ReviewPractice
