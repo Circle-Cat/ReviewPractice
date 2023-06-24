@@ -7,5 +7,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 4. yuji@u.circlecat.org
 5. wuyu@u.circlecat.org
 6. zxy8125@u.circlecat.org
+7. dreamchasepixar@u.circlecat.org
 
-NextId: 7
+NextId: 8
