@@ -11,5 +11,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 8. daisyisadaisy@u.circlecat.org
 9. dengying92@u.circlecat.org
 10. aqizzz@u.circlecat.org
+11. cool_watermelon@u.circlecat.org
 
-NextId: 11
+NextId: 12
