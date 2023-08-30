@@ -22,5 +22,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 19. chentuo@u.circlecat.org
 20. maruiqiong@u.circlecat.org
 21. zhoushanyu2000@u.circlecat.org
+22. huan2023@u.circlecat.org
 
-NextId: 22
+NextId: 23
