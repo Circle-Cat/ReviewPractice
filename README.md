@@ -26,5 +26,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 23. masami@u.circlecat.org
 24. 2470192093@u.circlecat.org
 25. morelucky@u.circlecat.org
+26. mzongiri@u.circlecat.org
 
-NextId: 26
+NextId: 27
