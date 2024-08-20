@@ -32,5 +32,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 29. 1669295211@u.circlecat.org
 30. wenhaow@u.circlecat.org
 31. zc1192@u.circlecat.org
+32. lanxi_li@u.circlecat.org
 
-NextId: 32
+NextId: 33
