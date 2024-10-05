@@ -4,3 +4,4 @@ port=80
 scheme=http
 project=ReviewPractice
 defaultbranch=main
+defaultremote=origin
