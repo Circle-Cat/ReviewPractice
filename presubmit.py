@@ -4,7 +4,7 @@ def validate_format(input_string):
     # Regular expression pattern
     pattern = r'(\d+)\.\s([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)'
     
-    lines = input_string.split('\n')  # Split input string into lines
+    lines = input_string.splitlines()  # Split input string into lines
 
     # Check the introductory text
     if lines[0] != "This is a list of people who knows how to use Gerrit, Yay!":
