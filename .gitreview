@@ -1,7 +1,7 @@
 [gerrit]
 host=review.circlecat.org
-port=80
-scheme=http
+port=29418
+scheme=ssh
 project=ReviewPractice
 defaultbranch=main
 defaultremote=origin
