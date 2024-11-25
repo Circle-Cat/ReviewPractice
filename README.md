@@ -40,5 +40,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 37. jiang33l@u.circlecat.org
 38. cyli@u.circlecat.org
 39. ztang@u.circlecat.org
+40. jzhao@u.circlecat.org
 
-NextId: 40
+NextId: 41
