@@ -44,5 +44,6 @@ This is a list of people who knows how to use Gerrit, Yay!
 41. mli@u.circlecat.org
 42. mtang@u.circlecat.org
 43. csong@u.circlecat.org
+44. qchen@u.circlecat.org
 
-NextId: 44
+NextId: 45
